@@ -1,0 +1,14 @@
+E:\Downloads\coding stuf\hookboardCalculator\hbc\bin\Release\net8.0\hbc.exe
+E:\Downloads\coding stuf\hookboardCalculator\hbc\bin\Release\net8.0\hbc.deps.json
+E:\Downloads\coding stuf\hookboardCalculator\hbc\bin\Release\net8.0\hbc.runtimeconfig.json
+E:\Downloads\coding stuf\hookboardCalculator\hbc\bin\Release\net8.0\hbc.dll
+E:\Downloads\coding stuf\hookboardCalculator\hbc\bin\Release\net8.0\hbc.pdb
+E:\Downloads\coding stuf\hookboardCalculator\hbc\obj\Release\net8.0\hbc.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\coding stuf\hookboardCalculator\hbc\obj\Release\net8.0\hbc.AssemblyInfoInputs.cache
+E:\Downloads\coding stuf\hookboardCalculator\hbc\obj\Release\net8.0\hbc.AssemblyInfo.cs
+E:\Downloads\coding stuf\hookboardCalculator\hbc\obj\Release\net8.0\hbc.csproj.CoreCompileInputs.cache
+E:\Downloads\coding stuf\hookboardCalculator\hbc\obj\Release\net8.0\hbc.dll
+E:\Downloads\coding stuf\hookboardCalculator\hbc\obj\Release\net8.0\refint\hbc.dll
+E:\Downloads\coding stuf\hookboardCalculator\hbc\obj\Release\net8.0\hbc.pdb
+E:\Downloads\coding stuf\hookboardCalculator\hbc\obj\Release\net8.0\hbc.genruntimeconfig.cache
+E:\Downloads\coding stuf\hookboardCalculator\hbc\obj\Release\net8.0\ref\hbc.dll

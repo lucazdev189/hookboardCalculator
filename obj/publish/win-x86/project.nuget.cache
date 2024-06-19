@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oY9AMvWHXWRd5P+CJ72aOvE1gcscP48lvwGsLYoB3m5KDvJj33duxdzqPlndJ8XJ8pkmyD+oXZc+CxJnwGKNZA==",
+  "success": true,
+  "projectFilePath": "E:\\Downloads\\coding stuf\\hookboardCalculator\\hbc\\hbc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Intel\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.4\\microsoft.netcore.app.runtime.win-x86.8.0.4.nupkg.sha512",
+    "C:\\Users\\Intel\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.4.nupkg.sha512",
+    "C:\\Users\\Intel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.4\\microsoft.aspnetcore.app.runtime.win-x86.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

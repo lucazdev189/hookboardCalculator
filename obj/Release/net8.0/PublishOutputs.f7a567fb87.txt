@@ -1,0 +1,5 @@
+E:\Downloads\coding stuf\hbc.exe
+E:\Downloads\coding stuf\hbc.dll
+E:\Downloads\coding stuf\hbc.deps.json
+E:\Downloads\coding stuf\hbc.runtimeconfig.json
+E:\Downloads\coding stuf\hbc.pdb
